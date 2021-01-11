@@ -1,0 +1,13 @@
+log in
+sign in
+wishlist
+add to cart
+recent view
+search
+chatbox
+payment,tracking
+sort by
+notify me
+admin account -> no of books of a particular author available,
+banned books(govtnand publisher), profit/loss, all the information of stock should be 
+with available.
